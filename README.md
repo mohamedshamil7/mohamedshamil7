@@ -1,5 +1,5 @@
 # 💫 Hi I'm Shamil:
-Passionate Web Developer<br>currently pursuing Bsc in data science and programming from IIT Madras<br>
+Passionate Web Developer<br>Student @ IIT Madras<br>
 
 
 ## 🌐 Socials:
